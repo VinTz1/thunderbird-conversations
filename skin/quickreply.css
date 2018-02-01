@@ -39,8 +39,8 @@
 }
 
 .quickReply .textWrap {
-  background-color: Window;
-  color: WindowText;
+  background-color: -moz-Field;
+  color: -moz-FieldText;
   position: relative;
 }
 
